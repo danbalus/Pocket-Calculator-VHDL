@@ -1,0 +1,22 @@
+elbread.dll ver. 1.0.5.365 Mon May 09 03:35:20 2016
+
+
+--------------------------------------------------
+Entity           | Architecture  | Library      
+--------------------------------------------------
+ual              | unitarlog     | CalculatorFinal
+sumatorplusmux   | sumatorsimux  | calculatorfinal
+sumatorplusmuxb  | sumatorsimuxb | calculatorfinal
+booth_con_rci    | behavioral    | calculatorfinal
+impartire        | imp           | calculatorfinal
+--------------------------------------------------
+
+-----------------------------
+Package             | Library
+-----------------------------
+standard            | std
+std_logic_1164      | ieee
+std_logic_arith     | ieee
+std_logic_unsigned  | ieee
+numeric_std         | ieee
+-----------------------------

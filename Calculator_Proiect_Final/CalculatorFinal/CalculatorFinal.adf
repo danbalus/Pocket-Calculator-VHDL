@@ -1,0 +1,60 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=CalculatorFinal
+
+[Library]
+CalculatorFinal=.\CalculatorFinal.lib
+
+[$LibMap$]
+CalculatorFinal=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+
+[IMPLEMENTATION]
+UCF=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=bin2bcd_12bit|behavioral|0 complementintreg|complementininintreg|0 impartire|imp|0 sumatorplusmux|sumatorsimux|0 ual|unitarlog|0 x7seg|x7seg|0 
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/Intregi_In_complement.vhd=-1
+/Intregi_in_complement_B.vhd=-1
+/UAL.vhd=-1
+/Inmultire_BOOTH.vhd=-1
+/Complement_In_Intreg.vhd=-1
+/Binar_in_BCD.vhd=-1
+/7_segmente.vhd=-1
+/7seg.awf=-1
+/Impartire.vhd=-1
+/ual.awf=-1
+/Impartire_nr_pozitive.awf=-1
+
+[Files.Data]
+.\src\Intregi_In_complement.vhd=VHDL Source Code
+.\src\Intregi_in_complement_B.vhd=VHDL Source Code
+.\src\UAL.vhd=VHDL Source Code
+.\src\Inmultire_BOOTH.vhd=VHDL Source Code
+.\src\Complement_In_Intreg.vhd=VHDL Source Code
+.\src\Binar_in_BCD.vhd=VHDL Source Code
+.\src\7_segmente.vhd=VHDL Source Code
+.\src\7seg.awf=Waveform File
+.\src\Impartire.vhd=VHDL Source Code
+.\src\ual.awf=Waveform File
+.\src\Impartire_nr_pozitive.awf=Waveform File
+

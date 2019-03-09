@@ -1,0 +1,17 @@
+972
+~E 1 "./src/Impartire.vhd" 5 impartire
+~A 1 "./src/Impartire.vhd" 16 imp
+~E 1 "./src/Inmultire_BOOTH.vhd" 19 booth_con_rci
+~A 1 "./src/Inmultire_BOOTH.vhd" 28 behavioral
+~E 1 "./src/Binar_in_BCD.vhd" 6 bin2bcd_12bit
+~A 1 "./src/Binar_in_BCD.vhd" 22 behavioral
+~E 1 "./src/Complement_In_Intreg.vhd" 7 complementintreg
+~A 1 "./src/Complement_In_Intreg.vhd" 20 complementininintreg
+~E 1 "./src/Intregi_in_complement_B.vhd" 6 sumatorplusmuxb
+~A 1 "./src/Intregi_in_complement_B.vhd" 13 sumatorsimuxb
+~E 1 "./src/Intregi_In_complement.vhd" 6 sumatorplusmux
+~A 1 "./src/Intregi_In_complement.vhd" 13 sumatorsimux
+~E 1 "./src/UAL.vhd" 6 ual
+~A 1 "./src/UAL.vhd" 34 unitarlog
+~E 1 "./src/7_segmente.vhd" 5 x7seg
+~A 1 "./src/7_segmente.vhd" 21 x7seg

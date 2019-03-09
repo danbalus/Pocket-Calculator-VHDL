@@ -1,0 +1,70 @@
+$WAVE4TIMED
+$RESOLUTION 1000
+I 1 "a#28#std_logic_vector(4 downto 0)1 ricd4 0 e#9#std_logicc9 UX01ZWLH-"
+I 2 "e#9#std_logicc9 UX01ZWLH-"
+$BUS INOUT 21 1 5 Y0
+$SC 1-17/4
+$BUS INOUT 42 1 5 Y1
+$SC 22-38/4
+$BUS INOUT 63 1 5 Y2
+$SC 43-59/4
+$BUS INOUT 84 1 5 Y3
+$SC 64-80/4
+$BUS INOUT +25 1 5 Y0B
+$SC 85-+16/4
+$BUS INOUT +25 1 5 Y1B
+$SC 106-+16/4
+$BUS INOUT +25 1 5 Y2B
+$SC 127-+16/4
+$BUS INOUT +25 1 5 Y3B
+$SC 148-+16/4
+I 3 "a#28#std_logic_vector(1 downto 0)1 ricd1 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS INOUT +13 3 2 sel
+$SC +-8 +4
+$BUS INOUT +25 1 5 Op1
+$SC 178-+16/4
+$BUS INOUT +25 1 5 Op2
+$SC 199-+16/4
+$BUS INOUT +25 1 5 Opi1
+$SC 220-+16/4
+$BUS INOUT +25 1 5 Opi2
+$SC 241-+16/4
+$BUS INOUT +25 1 5 aUAL
+$SC 262-+16/4
+$BUS INOUT +25 1 5 aUALB
+$SC 283-+16/4
+I 4 "a#28#std_logic_vector(9 downto 0)1 ricd9 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS INOUT +45 4 10 rezultat
+$SC 304-+36/4
+$BUS INOUT +45 4 10 8 0 i
+$SC 345-+36/4
+$INOUT +5 2 clk
+$WAVES 1-17/4 +5-38/4 +5-59/4 +5-80/4 +5-+16/4 +5-+16/4 +5-+16/4 +5-+16/4 +56-+16/4 +5-+16/4 +47-+16/4 +25-+36/4
+=0 T 0
+$VALUES
+V 1
+U
+$END
+$WAVES 169 +4 +89-+16/4 +5-+16/4 +87
+*0
+$VALUES
+V 1
+0
+$END
+$WAVES 178-+16/4 +5-+16/4
+*0
+=1 D 0 1
+$VALUES
+V 2
+U
+0
+$END
+$WAVES 324-+16/4
+*0
+*1
+$VALUES
+V 2
+U
+X
+$END
+$ENDWAVE
